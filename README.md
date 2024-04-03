@@ -24,4 +24,4 @@ The image scraper can be customized to suit your specific needs. Here are a few 
 
 * Add additional filtering criteria to only scrape images that meet certain conditions (e.g., image size, file type, etc.).
 
-* Implement multi-threading or asynchronous processing for faster scraping of multiple pages or websites simultaneously.
+* Implement multi-threading or asynchronous processing for faster img_scraping of multiple pages or websites simultaneously.
